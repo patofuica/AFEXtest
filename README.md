@@ -12,8 +12,7 @@ He creado una pagina llamada inciar-sesion para ir probando las funcionalidades 
 
 🔹 **IDE Recomendado:** [Visual Studio Code](https://code.visualstudio.com/)
 
-## Como Correr 
-#### El Proyecto Localmente.
+## Como Correr El Proyecto Localmente.
 
 1. Clona este repositorio en tu máquina local.
 
@@ -21,7 +20,7 @@ He creado una pagina llamada inciar-sesion para ir probando las funcionalidades 
 
 3. Para abrir la GUI de Cypress para este proyecto puede utilizar el comando `npx cypress open`
 
-4. Iniciar el Proyecto, seleccionar `e2e` y ubicar el proyecto/carpeta Afex_testing e iniciar el archivo `Iniciar-sesion.cy.js`
+4. Iniciar el Proyecto, seleccionar `e2e` y ubicar el proyecto/carpeta Afex_testing e iniciar el archivo Iniciar-sesion.cy.js
 
 
 ### Enlances Utiles 
