@@ -12,7 +12,7 @@ He creado una pagina llamada inciar-sesion para ir probando las funcionalidades 
 
 🔹 **IDE Recomendado:** [Visual Studio Code](https://code.visualstudio.com/)
 
-## Como Correr El Proyecto Localmente.
+## Como Correr el proyecto localmente.
 
 1. Clona este repositorio en tu máquina local.
 
