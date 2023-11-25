@@ -1,18 +1,19 @@
-# AFEXtest Automation Test.
+## AFEXtest Automation Test.
 
-🤖 AFEX Automatización pagina INICIAR-SESION
+## 🤖 AFEX Automatización pagina Iniciar-Sesión
 
-# INTRODUCCIÓN
+## Introducción
 
 He creado una pagina llamada inciar-sesion para ir probando las funcionalidades que existén en esta pagina e ir automatizando y validando la gran mayoria de ellas. Dejo en claro que para atrapar los elementos del sitio, utilice el selector que trae incorporado Cypress.
 
-# Paginas
+## Páginas
 
 ✅ Iniciar-sesion
 
 🔹 **IDE Recomendado:** [Visual Studio Code](https://code.visualstudio.com/)
 
-## Como correr el proyecto localmente.
+## Como Correr 
+#### El Proyecto Localmente.
 
 1. Clona este repositorio en tu máquina local.
 
@@ -23,7 +24,7 @@ He creado una pagina llamada inciar-sesion para ir probando las funcionalidades 
 4. Iniciar el Proyecto, seleccionar `e2e` y ubicar el proyecto/carpeta Afex_testing e iniciar el archivo `Iniciar-sesion.cy.js`
 
 
-# Enlances Utiles 
+### Enlances Utiles 
 
 - [Cypress Best Practices](https://docs.cypress.io/guides/references/best-practices)
 
