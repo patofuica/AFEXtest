@@ -1,4 +1,4 @@
-## AFEXtest Automation Test.
+## AFEX AUTOMATION TEST
 
 ## 🤖 AFEX Automatización pagina Iniciar-Sesión
 
